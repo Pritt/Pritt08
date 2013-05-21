@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1368918954 source:c:\users\andrew\documents\crapsshooter\crapsshooter.cpp
+	"game.cpp"
+
+1368761402 c:\users\andrew\documents\crapsshooter\title.h
+
+1369097240 c:\users\andrew\documents\crapsshooter\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"interface.h"
+	"player.h"
+	"dice.cpp"
+
+1369097240 source:c:\users\andrew\documents\crapsshooter\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"interface.h"
+	"player.h"
+	"dice.cpp"
+
+1368913689 c:\users\andrew\documents\crapsshooter\player.cpp
+	<iostream>
+	"integerTest.cpp"
+
+1368913689 source:c:\users\andrew\documents\crapsshooter\player.cpp
+	<iostream>
+	"integerTest.cpp"
+
+1368885258 c:\users\andrew\documents\crapsshooter\title.cpp
+	<iostream>
+	<cstdlib>
+
+1368885258 source:c:\users\andrew\documents\crapsshooter\title.cpp
+	<iostream>
+	<cstdlib>
+
+1368764814 c:\users\andrew\documents\crapsshooter\errorchecking.cpp
+	<iostream>
+
+1368764814 source:c:\users\andrew\documents\crapsshooter\errorchecking.cpp
+	<iostream>
+
+1368914021 source:c:\users\andrew\documents\crapsshooter\interface.cpp
+	<iostream>
+	<cstdlib>
+
+1368916721 c:\users\andrew\documents\crapsshooter\interface.cpp
+	<iostream>
+	<cstdlib>
+
+1368887136 c:\users\andrew\documents\crapsshooter\dice.cpp
+	<iostream>
+	<cstdlib>
+
+1368887136 source:c:\users\andrew\documents\crapsshooter\dice.cpp
+	<iostream>
+	<cstdlib>
+
+1368893010 c:\users\andrew\documents\crapsshooter\integertest.cpp
+	<iostream>
+	<cstdlib>
+	<limits>
+
+1368893010 source:c:\users\andrew\documents\crapsshooter\integertest.cpp
+	<iostream>
+	<cstdlib>
+	<limits>
+
+1369092791 c:\users\andrew\documents\crapsshooter\interface.h
+	<iostream>
+	<cstdlib>
+	"player.h"
+
+1369097353 c:\users\andrew\documents\crapsshooter\player.h
+	<iostream>
+	"integerTest.cpp"
+	"interface.h"
+
+1368918954 source:c:\users\andrew\documents\github\pritt08\crapsshooter\crapsshooter.cpp
+	"game.cpp"
+
+1369097240 c:\users\andrew\documents\github\pritt08\crapsshooter\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"interface.h"
+	"player.h"
+	"dice.cpp"
+
+1369098615 c:\users\andrew\documents\github\pritt08\crapsshooter\interface.h
+	<iostream>
+	<cstdlib>
+	"player.h"
+
+1369097353 c:\users\andrew\documents\github\pritt08\crapsshooter\player.h
+	<iostream>
+	"integerTest.cpp"
+	"interface.h"
+
+1368893010 c:\users\andrew\documents\github\pritt08\crapsshooter\integertest.cpp
+	<iostream>
+	<cstdlib>
+	<limits>
+
+1368887136 c:\users\andrew\documents\github\pritt08\crapsshooter\dice.cpp
+	<iostream>
+	<cstdlib>
+
+1368887136 source:c:\users\andrew\documents\github\pritt08\crapsshooter\dice.cpp
+	<iostream>
+	<cstdlib>
+
+1369097240 source:c:\users\andrew\documents\github\pritt08\crapsshooter\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"interface.h"
+	"player.h"
+	"dice.cpp"
+
+1368893010 source:c:\users\andrew\documents\github\pritt08\crapsshooter\integertest.cpp
+	<iostream>
+	<cstdlib>
+	<limits>
+
